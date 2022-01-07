@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @fastzinhow
+- 🌱 I’m currently learning HTML
